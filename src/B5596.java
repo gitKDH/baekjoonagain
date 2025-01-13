@@ -6,7 +6,7 @@ public class B5596 {
         int s = 0;
         int t = 0;
 
-        int exam = 0;
+        int exam;
 
 
         for(int i = 0; i < 4; i++){
